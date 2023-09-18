@@ -1,0 +1,15 @@
+[submodule "Tools/fuzzDicts"]
+	path = Tools/fuzzDicts
+	url = git@github.com:TheKingOfDuck/fuzzDicts.git
+[submodule "Tools/reGeorg"]
+	path = Tools/reGeorg
+	url = git@github.com:sensepost/reGeorg.git
+[submodule "Tools/webshell"]
+	path = Tools/webshell
+	url = git@github.com:tennc/webshell.git
+[submodule "Tools/cmd.jsp"]
+	path = Tools/cmd.jsp
+	url = git@github.com:SecurityRiskAdvisors/cmd.jsp.git
+[submodule "Methods/ransomware"]
+	path = Methods/ransomware
+	url = git@github.com:mauri870/ransomware.git

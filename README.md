@@ -1,2 +1,2 @@
 # Sources4ReaTeam
-some article, tools and methods for Red team and penetester
+some articles, tools and methods for Red team and penetester
