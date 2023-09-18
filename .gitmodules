@@ -13,3 +13,6 @@
 [submodule "Methods/ransomware"]
 	path = Methods/ransomware
 	url = git@github.com:mauri870/ransomware.git
+[submodule "Articles/Awesome-Redteam"]
+	path = Articles/Awesome-Redteam
+	url = git@github.com:Threekiii/Awesome-Redteam.git
